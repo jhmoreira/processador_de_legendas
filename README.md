@@ -9,16 +9,10 @@ npm install
 ```
 npm run serve
 ```
+## Descrição do Projeto
+<p align="center">O seguinte projeto realiza a análise de legendas srt no idioma Inglês e retorna as palavras que mais aparecem, assim como a quantidade de ocorrência da palavra na legenda em ordem decrescente</p>
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<h4 align="center"> 
+	🚧  React Select 🚀 Em construção...  🚧
+</h4>
