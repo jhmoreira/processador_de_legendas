@@ -14,5 +14,5 @@ npm run serve
 
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  Projeto em desenvolvimento...  🚧
 </h4>
